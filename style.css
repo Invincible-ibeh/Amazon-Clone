@@ -148,7 +148,7 @@ nav {
 .header-box {
   margin-top: -20vw;
 }
-.product-slider {
+.products-slider {
   background: #fff;
   margin: 0 30px;
   padding: 20px;
@@ -160,10 +160,10 @@ nav {
   gap: 20px;
   margin-top: 10px;
 }
-.product-slider .products img{
+.products-slider .products img{
     max-width: 200px;
     max-height: 200px;
 }
-.product-slider .products::-webkit-scrollbar{
+.products-slider .products::-webkit-scrollbar{
     display: none;
 }
