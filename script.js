@@ -28,4 +28,6 @@ next_btn.addEventListener("click", (e) => {
     n = 0;
   }
   changeSlide();
-});
+})
+
+const 
